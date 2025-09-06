@@ -8,6 +8,6 @@
   "main": "backend/server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "your build command here",
+    "build": "react-scripts build",
   }
 }
