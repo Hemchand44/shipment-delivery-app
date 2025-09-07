@@ -7,6 +7,11 @@
   "type": "commonjs",
   "main": "backend/server.js",
   "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "build": "^0.1.4"
   }
 }
